@@ -4,7 +4,7 @@
 Is the hotel’s revenue increasing year to year?
 Is there adequate parking arrangements for guest?
 
-
+#
 The displays below show the results of the queries in multiple forms:
 ![Screenshot (465)](https://user-images.githubusercontent.com/79879124/236653140-36730c26-7738-4462-9516-3fdec3bf9dd4.png)
 
